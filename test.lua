@@ -1,6 +1,6 @@
 -- Original reference-matched UI. Put this entire file in a LocalScript.
 -- StarterPlayer > StarterPlayerScripts. Demo controls only; no aim/ESP logic.
-local KEY_URL = "https://raw.githubusercontent.com/Aervoro/test123/refs/heads/main/key.txt"
+local KEY_URL = 'https://raw.githubusercontent.com/Aervoro/test123/refs/heads/main/key.txt'
 local DISCORD_URL = '' -- Put your https://discord.gg/... invite here.
 local Players = game:GetService('Players')
 local UIS = game:GetService('UserInputService')
